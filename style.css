@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(102, 1, 1);
+    font-family: 'Pacifico', cursive;
+    color:rgb(1, 1, 59);
+}
+.note{
+    font-size: 15px;
+    color:black;
+    font-family: 'Courgette', cursive;
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px gray;
+}
+body{
+    background-image: url("https://cdn.vectorstock.com/i/1000x1000/24/74/seamless-alphabet-letters-background-vector-4462474.jpg");
+}
